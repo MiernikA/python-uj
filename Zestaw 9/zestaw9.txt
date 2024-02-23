@@ -1,0 +1,4 @@
+ZADANIE 9.3 (SNAKE)
+Zaimplementować uproszczoną wersję gry Snake. Wąż ma rozmiar jednego kwadratu, porusza się ruchem jednostajnym w kierunku poziomym lub pionowym, zmiana kierunku (skręt) następuje po naciśnięciu kursora. Zabroniony jest ruch wstecz (koniec gry). Zakładamy, że plansza ma periodyczne warunki brzegowe.
+
+Zadaniem gracza jest poruszanie wężem i zjadanie pożywnych owoców, które pojawiają się losowo na planszy i żyją określony czas. W każdym momencie na planszy może być obecny najwyżej jeden owoc. Gra kończy się po określonym czasie lub po niedozwolonym ruchu. Wynik gry to stan licznika owoców.
