@@ -16,9 +16,6 @@ Lekcja 9 - pygame
 Lekcja 10 - tkinter
 Lekcja 11 - struktury danych
 
-### [Course Name 2](course_name_2/)
-Description: Brief description of the course and its objectives.
-
 ## Usage
 You can clone this repository to your local machine using:
 
