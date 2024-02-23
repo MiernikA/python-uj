@@ -5,8 +5,7 @@ Each folder corresponds to a specific course or assignment, and the files within
 
 ## Courses
 
-- **Lekcja 2 - typy i operacje**
-, introduction to Python data types and basic operations.
+- **Lekcja 2 - typy i operacje**, introduction to Python data types and basic operations.
 
 - **Lekcja 3 - instrukcje i składnia**
   Description: Overview of Python control flow statements and syntax.
