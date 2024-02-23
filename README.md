@@ -7,32 +7,23 @@ Each folder corresponds to a specific course or assignment, and the files within
 
 - **Lekcja 2 - typy i operacje**, introduction to Python data types and basic operations.
 
-- **Lekcja 3 - instrukcje i składnia**
-  Description: Overview of Python control flow statements and syntax.
+- **Lekcja 3 - instrukcje i składnia**, overview of Python control flow statements and syntax.
 
-- **Lekcja 4 - funkcje**
-  Description: Introduction to functions in Python and their usage.
+- **Lekcja 4 - funkcje**, introduction to functions in Python and their usage.
 
-- **Lekcja 5 - moduły**
-  Description: Explanation of Python modules and how to use them.
+- **Lekcja 5 - moduły**, explanation of Python modules and how to use them.
 
-- **Lekcja 6 - klasy**
-  Description: Understanding Python classes and object-oriented programming concepts.
+- **Lekcja 6 - klasy**, understanding Python classes and object-oriented programming concepts.
 
-- **Lekcja 7 - wyjątki i iteratory**
-  Description: Handling exceptions and working with iterators in Python.
+- **Lekcja 7 - wyjątki i iteratory**, handling exceptions and working with iterators in Python.
 
-- **Lekcja 8 - dekoratory i metaklasy**
-  Description: Explanation of decorators and metaclasses in Python.
+- **Lekcja 8 - dekoratory i metaklasy**, explanation of decorators and metaclasses in Python.
 
-- **Lekcja 9 - pygame**
-  Description: Introduction to game development using Pygame library.
+- **Lekcja 9 - pygame**, introduction to game development using Pygame library.
 
-- **Lekcja 10 - tkinter**
-  Description: Overview of GUI development using Tkinter library.
+- **Lekcja 10 - tkinter**, overview of GUI development using Tkinter library.
 
-- **Lekcja 11 - struktury danych**
-  Description: Understanding various data structures in Python and their usage.
+- **Lekcja 11 - struktury danych**, understanding various data structures in Python and their usage.
 
 
 ## Usage
