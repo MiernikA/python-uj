@@ -5,16 +5,36 @@ Each folder corresponds to a specific course or assignment, and the files within
 
 ## Courses
 
-Lekcja 2 - typy i operacje
-Lekcja 3 - instrukcje i składnia
-Lekcja 4 - funkcje
-Lekcja 5 - moduły
-Lekcja 6 - klasy
-Lekcja 7 - wyjątki i iteratory
-Lekcja 8 - dekoratory i metaklasy
-Lekcja 9 - pygame
-Lekcja 10 - tkinter
-Lekcja 11 - struktury danych
+- **Lekcja 2 - typy i operacje**
+  Description: Introduction to Python data types and basic operations.
+
+- **Lekcja 3 - instrukcje i składnia**
+  Description: Overview of Python control flow statements and syntax.
+
+- **Lekcja 4 - funkcje**
+  Description: Introduction to functions in Python and their usage.
+
+- **Lekcja 5 - moduły**
+  Description: Explanation of Python modules and how to use them.
+
+- **Lekcja 6 - klasy**
+  Description: Understanding Python classes and object-oriented programming concepts.
+
+- **Lekcja 7 - wyjątki i iteratory**
+  Description: Handling exceptions and working with iterators in Python.
+
+- **Lekcja 8 - dekoratory i metaklasy**
+  Description: Explanation of decorators and metaclasses in Python.
+
+- **Lekcja 9 - pygame**
+  Description: Introduction to game development using Pygame library.
+
+- **Lekcja 10 - tkinter**
+  Description: Overview of GUI development using Tkinter library.
+
+- **Lekcja 11 - struktury danych**
+  Description: Understanding various data structures in Python and their usage.
+
 
 ## Usage
 You can clone this repository to your local machine using:
