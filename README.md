@@ -24,7 +24,7 @@ Each folder corresponds to a specific course or assignment, and the files within
 - **Lekcja 10 - tkinter**, overview of GUI development using Tkinter library.
 
 - **Lekcja 11 - struktury danych**, understanding various data structures in Python and their usage.
-- 
+
 - **Projekt Zaliczeniowy - Gra w życie**, Game of Life by Conway, as a summary of my semester-long work during exercises.
 
 ## Usage
