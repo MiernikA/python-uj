@@ -32,8 +32,5 @@ You can clone this repository to your local machine using:
 
 Feel free to explore the folders and files for reference or learning purposes.
 
-## Contributing
-If you would like to contribute to this repository, you can fork it and submit a pull request with your changes.
-
 ## License
 This repository is licensed under the [MIT License](LICENSE).
